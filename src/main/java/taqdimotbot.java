@@ -15,14 +15,14 @@ public class taqdimotbot extends TelegramLongPollingBot {
 //        return "slaytbot";
 //    }
     public String getBotUsername(){
-        return "experimenttbot";
+        return "taqdimott_bot";
     }
 
     /*public String getBotToken () {
         return "1654147081:AAG-yxHhR0bVIzrCInd-dob_49_3E7hjLP8";
     }*/
     public String getBotToken () {
-        return "1928687908:AAGCpuO_zx6L3yPr76pN2wYPVPH4PwGWQ7U";
+        return "7084142738:AAFQhk4JkNJLmBTWP8uCGsZN1LG6AKTZzQw";
     }
 
     String LAST_COMMAND = "";
